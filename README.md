@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rohanrkrr78@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17l3tb19BaThMPuQ5PErZOPIPFbZNS_hU/view?usp=sharing](https://drive.google.com/file/d/17l3tb19BaThMPuQ5PErZOPIPFbZNS_hU/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/smS2r](https://shorturl.at/smS2r)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
