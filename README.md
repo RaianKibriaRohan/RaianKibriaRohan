@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raian Kibria Rohan</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Raian Kibria Rohan</h1>
+
 <h3 align="center">Passionate on Cybersecurity.</h3>
 <img align="right" alt="Coding" width="300" height="300" src="https://media1.tenor.com/m/QWB9MQaMVKMAAAAd/cat-type.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiankibriarohan&label=Profile%20views&color=0e75b6&style=flat" alt="raiankibriarohan" /> </p>
