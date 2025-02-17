@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Raian Kibria Rohan</h1>
+<h1 align="center">Hi <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRpcmlnNG1wOGswYnpjOTg1a3o2dDJzODNmc3J2OXFoamF3eXNkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6PDvuMqHyayPK/giphy.gif" width="30px">, I'm Raian Kibria Rohan</h1>
 
 <h2 align="center">Passionate on Cybersecurity</h2>
 <img align="right" alt="Coding" width="300" height="300" src="https://media1.tenor.com/m/QWB9MQaMVKMAAAAd/cat-type.gif">
