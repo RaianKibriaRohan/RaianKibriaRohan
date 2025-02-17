@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3I5ZWdxdXVzdmNxN2gzenBuNGsyMTh3ZzRrN3EwN2dpbWc3b2gxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif" width="30px">, I'm Raian Kibria Rohan</h1>
 
 <h2 align="center">Passionate on Cybersecurity</h2>
-<img align="right" alt="Coding" width="300" height="300" src="https://media1.tenor.com/m/QWB9MQaMVKMAAAAd/cat-type.gif">
+<img align="right" alt="Coding" width="400" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJmN3hvZWxkcHc4OG5mY3Q4MGU2Yzd2cnRtZGR3dGNyejNjeDhjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jlzggZ8GntqZ6v3ONs/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiankibriarohan&label=Profile%20views&color=0e75b6&style=flat" alt="raiankibriarohan" /> </p>
 
 - 🌱 I’m currently learning **The Basics of Linux OS**
