@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **The Basics of Linux OS**
 
-- 👨‍💻 All of my projects are available at [https://shorturl.at/MoTzp](https://shorturl.at/MoTzp)
+- 👨‍💻 All of my projects are available at [https://rohan404.vercel.app/](https://rohan404.vercel.app/)
 
 - 💬 Ask me about **Data Structure & Algorithm**
 
 - 📫 How to reach me **rohanrkrr78@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/smS2r](https://shorturl.at/smS2r)
+- 📄 Know about my experiences [https://shorturl.at/ukptL](https://shorturl.at/ukptL)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
